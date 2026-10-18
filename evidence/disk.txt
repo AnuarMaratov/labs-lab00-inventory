@@ -12,7 +12,7 @@ admin@admins-MBP ~ % diskutil list
    1:                APFS Volume ⁨SSD - Data⁩              32.8 GB    disk1s1
    2:                APFS Volume ⁨Preboot⁩                 302.0 MB   disk1s2
    3:                APFS Volume ⁨Recovery⁩                1.1 GB     disk1s3
-   4:                APFS Volume ⁨VM⁩                      4.3 GB     disk1s4
+   4:                APFS Volume ⁨VM⁩                      5.4 GB     disk1s4
    5:                APFS Volume ⁨SSD⁩                     15.4 GB    disk1s5
    6:              APFS Snapshot ⁨com.apple.os.update-...⁩ 15.4 GB    disk1s5s1
 
